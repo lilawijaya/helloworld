@@ -1,1 +1,1 @@
-# hello world <3 this is the repository for my personal website!
+# hello world <3 this is the github repository for my personal website! 
