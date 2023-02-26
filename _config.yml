@@ -30,7 +30,11 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+# change the website theme from minima to hitchens.
+# theme: minima
+theme: gem "hitchens-theme"
+
+
 plugins:
   - jekyll-feed
 
