@@ -10,7 +10,7 @@ source "https://rubygems.org"
 
 # changed the website theme from minima to hitchens. changed to regular theme.
 # gem "minima", "~> 2.5"
-gem "hitchens-theme"
+# gem "hitchens-theme"
 
 gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!

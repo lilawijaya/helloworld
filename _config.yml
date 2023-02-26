@@ -24,7 +24,7 @@ github_username:  lilawijaya
 # Build settings
 # changed the website theme from minima to hitchens. changed to regular theme.
 # theme: minima
-theme: hitchens-theme
+# theme: hitchens-theme
 
 github: [metadata]
 
