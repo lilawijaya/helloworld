@@ -1,4 +1,10 @@
-
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
@@ -17,13 +23,12 @@ email: lilawijaya@berkeley.edu
 description: >- 
   student. learner. researcher. leader. entrepreneur.
 
-baseurl: "/helloworld" 
-url: "https://lilawijaya.github.io" 
+baseurl: /helloworld
+url: "https://lilawijaya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lilawijaya
 
 # Build settings
 # changed the website theme from minima to hitchens. changed to regular theme.
-# theme: minima
 # theme: hitchens-theme
 
 github: [metadata]
