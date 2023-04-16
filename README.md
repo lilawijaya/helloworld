@@ -1,1 +1,1 @@
-#### hello world <3 this is my personal website! it was created using a jekyll template before i learned how to code html and css
+#### hello world <3 this is my personal website! it was created this while i had covid-19 and had to quarantine for 10 days ugh, special thanks to the static website generator jekyll. i used a template since i didn't know how to code html and css at the tiime. 
